@@ -4,6 +4,7 @@ Repositório criado com o objetivo de compartilhar uma atividade realiza no modu
 OOP, ou Programação Orientada a Objetos, é um paradigma de programação que se baseia no conceito de "objetos". Em vez de se concentrar apenas em funções ou procedimentos, OOP organiza o código em entidades autônomas chamadas objetos, que podem conter dados e funcionalidades relacionadas.
 
 Neste Projetos, sequimos o diagrama de classes abaixo para estrutura as classes:
+
 ![CodBack_SP2_Diagrama png](https://github.com/piedro404/curso-senai-controle-cliente-cs/assets/88720549/91acc287-5f03-4d28-8b3f-b2a25ee2ff51)
 
 ## 👨‍💻️ Tecnologias Utilizadas
