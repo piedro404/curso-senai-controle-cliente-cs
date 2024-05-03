@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "atividade-controle-cliente/1.0.0": {
+        "runtime": {
+          "atividade-controle-cliente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade-controle-cliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

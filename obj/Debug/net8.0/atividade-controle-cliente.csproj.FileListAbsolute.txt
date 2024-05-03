@@ -1,0 +1,14 @@
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\bin\Debug\net8.0\atividade-controle-cliente.exe
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\bin\Debug\net8.0\atividade-controle-cliente.deps.json
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\bin\Debug\net8.0\atividade-controle-cliente.runtimeconfig.json
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\bin\Debug\net8.0\atividade-controle-cliente.dll
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\bin\Debug\net8.0\atividade-controle-cliente.pdb
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\atividade-controle-cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\atividade-controle-cliente.AssemblyInfoInputs.cache
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\atividade-controle-cliente.AssemblyInfo.cs
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\atividade-controle-cliente.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\atividade-controle-cliente.dll
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\refint\atividade-controle-cliente.dll
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\atividade-controle-cliente.pdb
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\atividade-controle-cliente.genruntimeconfig.cache
+C:\Projetos\Curso\Senai EAD\Atividades\atividade-controle-cliente\obj\Debug\net8.0\ref\atividade-controle-cliente.dll
